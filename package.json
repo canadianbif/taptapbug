@@ -1,0 +1,19 @@
+{
+  "name": "taptapbug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "taptapbug.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/canadianbif/taptapbug.git"
+  },
+  "author": "Benjamin Feder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canadianbif/taptapbug/issues"
+  },
+  "homepage": "https://github.com/canadianbif/taptapbug"
+}
